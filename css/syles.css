@@ -1,0 +1,39 @@
+/* CSS Document */
+
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+body {
+	
+	font-family: sans-serif; 
+	font-size: 18px; 
+	background: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+header{
+	background-image: url("../images/boom.jpg");
+	color: white;
+	text-align:center;
+	padding: 40px;
+		
+}
+
+h1 { 
+	font-size: 30px; 
+	font-family: 'Anton', sans-serif;}
+
+
+footer {
+	background: darkslategrey;
+	color: white;
+	text-align:center;
+	padding: 10px;
+	
+	
+}
+
+.my-class { color: black; text-align: center; padding: 10px; }
+
+nav {background-color: grey;}
